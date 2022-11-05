@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: blueviolet;
+    background-color: rgb(63, 80, 231);
     overflow-x: hidden;
     animation: bodya 10s linear infinite;
 }
@@ -13,22 +13,22 @@ body{
 
 @keyframes bodya {
     0%{
-        background-color: blueviolet;
+        background-color: rgb(63, 80, 231);
     }
     23%{
-        background-color: blueviolet;
+        background-color: rgb(63, 80, 231);
     }
     35%{
-        background-color: rgb(49, 12, 83);
+        background-color: rgb(14, 21, 88);
     }
     80%{
-        background-color: rgb(49, 12, 83);
+        background-color: rgb(14, 21, 88);
     }
     90%{
-        background-color: blueviolet;
+        background-color: rgb(63, 80, 231);
     }
     100%{
-        background-color: blueviolet;
+        background-color: rgb(63, 80, 231);
     }
 }
 
